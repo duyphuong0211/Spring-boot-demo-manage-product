@@ -1,0 +1,16 @@
+com\example\model\database\Product.class
+com\example\model\Test.class
+com\example\model\rabbit\CustomMessage.class
+com\example\constant\RabbitMQDefine.class
+com\example\repository\ProductRepository.class
+com\example\ultis\UserDetailsServiceImpl.class
+com\example\config\MQConfig.class
+com\example\model\dto\ProductDTO.class
+com\example\model\rabbit\MessageBusDTO.class
+com\example\config\WebSecurityConfig.class
+com\example\model\database\Role.class
+com\example\config\MvcConfig.class
+com\example\repository\UserRepository.class
+com\example\model\database\User.class
+com\example\ultis\ProductService.class
+com\example\ultis\MyUserDetails.class
